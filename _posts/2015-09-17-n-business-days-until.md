@@ -21,6 +21,6 @@ This, for me, is such an important number to keep in mind, that I have created a
 
 Here's an [example](http://bizdaysuntil.herokuapp.com/?year=2015&month=12&day=25&what=Xmas&size=24&highlight=fefe55):
 
-![business days until Xmas](/assets/bizdaysuntil.png)
+![business days until Xmas](/assets/{{page.id}}/bizdaysuntil.png)
 
 

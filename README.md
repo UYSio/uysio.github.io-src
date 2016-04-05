@@ -1,6 +1,6 @@
 # Intro
 
-[uys.io blawg](http://essays.uys.io).
+[www.uys.io](http://www.uys.io).
 
 Theme is *friendly* by [Pygments](https://pypi.python.org/pypi/Pygments)
 

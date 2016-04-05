@@ -72,4 +72,4 @@ sudo update-alternatives --set c++ /usr/bin/clang++
 
 Et voilà!
 
-![Mandelbrot with Pixie](/assets/mandelbrot-pixie.png)
+![Mandelbrot with Pixie](/assets/{{page.id}}/mandelbrot-pixie.png)

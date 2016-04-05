@@ -9,7 +9,7 @@ I braced myself for a thorough hack to get Clojure working in Unity3D, and found
 
 So, I instead spent my time implementing a subset of Flappy Bird.
 
-![flappy bird](/assets/flappy.gif)
+![flappy bird](/assets/{{page.id}}/flappy.gif)
 
 When using Unity3D, I can imagine most of the work going into asset creation, story/level progression and play testing. This is the only real code I wrote:
 

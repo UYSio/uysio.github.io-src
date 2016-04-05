@@ -31,4 +31,4 @@ Thanks to [Eugene Fidelin](https://github.com/eugef) for [Github Leaderboard](ht
 
 Turns out I had a good week.
 
-![Github Leaderboard](/assets/gl.png)
+![Github Leaderboard](/assets/{{page.id}}/gl.png)
