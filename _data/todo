@@ -1,0 +1,1 @@
+Well-formatted site data should be placed here. The jekyll engine will autoload all yaml files (ends with  .yml or .yaml) in this directory. If there's a file members.yml under the directory, then you can access contents of the file through site.data.members.

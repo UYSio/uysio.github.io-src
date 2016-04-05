@@ -1,0 +1,21 @@
+# Site settings
+title: Unleash Your Server
+email: opyate+uysio@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Unleash Your Server LTD is the professional playground of
+  Juan Matthys Uys.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://essays.uys.io" # the base hostname & protocol for your site
+twitter_username: opyate
+github_username:  opyate
+
+# Build settings
+highlighter: pygments
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# options
+safe: false
+timezone: Europe/London
+encoding: utf-8
