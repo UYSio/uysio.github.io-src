@@ -7,7 +7,7 @@ Hi, I'm Juan, and {{ site.title }} is my web development consultancy.
 
 I have experience with all aspects of delivering a web-based product, whether it be a static website, a full-blown ecommerce site, or a web API.
 
-Read more about the work I've done for my [clients](clients).
+Read more about the work I've done for my [clients](clients), and [get in touch](contact) if you'd like to collaborate.
 
 ## Recent posts
 
