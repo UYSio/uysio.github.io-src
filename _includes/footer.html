@@ -1,6 +1,17 @@
 <footer class="site-footer">
   <div class="wrapper">
-    &copy; Copyright {{ site.title }} 2013 &mdash; {{ site.time | date: "%Y" }}
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <a class="site-title" href="{{ site.baseurl }}/">
+          <img src="/assets/logo/logob.png" alt="The {{ site.title }} logo" title="{{ site.title }}" height="120">
+        </a>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        &copy; Copyright {{ site.title }} 2013 &mdash; {{ site.time | date: "%Y" }}
+      </div>
+
+    </div>
   </div>
 </footer>
 <script type="text/javascript" src="/js/main.js"></script>

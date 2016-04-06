@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Home
 ---
 
 Hi, I'm Juan, and {{ site.title }} is my web development consultancy.

@@ -2,6 +2,14 @@
 layout: page
 title: Clients
 ---
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+
+- [Government Digital Service](#government-digital-service)
+- [Condé Nast Commerce](#cond-nast-commerce)
+- [New Concepts Development](#new-concepts-development)
+
+<!-- markdown-toc end -->
+
 
 # Government Digital Service
 
@@ -26,11 +34,3 @@ Consulting services included development using Clojure, JavaScript, Ruby and PHP
 I worked on PDF parsing and the lead generation frontend for Credit Monster's credit rating system, helping them reach the number 4 spot for credit rating services in the USA.
 
 Consulting services included development using Scala, PDF technology and AngularJS.
-
-# pdfcrun.ch
-
-[pdfcrun.ch](https://pdfcrun.ch/) was borne out of the recurring patterns of data being locked up inside PDFs in the wild.
-
-It's currently in private beta testing.
-
-If you're a computer vision expert, please contact me at [this address](mailto:juan+pdfcrunch@uys.io) as my algorithms can always do with betterment.

@@ -15,7 +15,8 @@ $spacing-unit:     50px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #4262C5;
+$brand-color-alt:  #6B3278;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -25,10 +26,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 // 100%, because folks can resize their own browsers.
 $content-width:    100%;
 
-$on-palm:          100%;
-$on-laptop:        100%;
-
-
+$on-device:          800px;
 
 // Using media queries with like this:
 // @include media-query($on-palm) {

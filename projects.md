@@ -2,6 +2,11 @@
 layout: page
 title: Projects
 ---
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+- [pdfcrun.ch](#pdfcrunch)
+
+<!-- markdown-toc end -->
+
 
 # pdfcrun.ch
 

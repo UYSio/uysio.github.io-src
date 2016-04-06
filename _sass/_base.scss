@@ -93,11 +93,11 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+      color: $brand-color-alt;
     }
 
     &:hover {
-        color: $text-color;
+        color: $brand-color;
         text-decoration: underline;
     }
 }
@@ -159,7 +159,7 @@ pre {
     padding-left: $spacing-unit;
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
+    @include media-query($on-device) {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
         max-width:         calc(#{$content-width} - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
