@@ -24,17 +24,19 @@ window.onload = function(){
     for (var i=0; i<word.length; i++) {
       number += word[i].charCodeAt(0);
     }
-    //console.log(word, number);
     number = parseFloat('0.' + number);
     //console.log(word, number);
-    return number; 
+    return number;
   };
 
-  var colors = ["#48466D", "#D4CEB0", "#FEAA2B", "#FF5757", "#6B3278", "#362999", "#4262C5", "#F6538F", "#BA6C65"];
-  var tags = document.getElementsByClassName("post-tag");
-  for (var i=0; i<tags.length; i++) {
-    var tag = tags[i].className.split(' ')[1];
-    var selectedColour = colors[Math.floor(wordToNumber(tag)*colors.length)];
-    tags[i].style.backgroundColor = selectedColour;
-  }
+  var colourise = function(which, colours) {
+    var tags = document.getElementsByClassName(which);
+    for (var i=0; i<tags.length; i++) {
+      var tag = tags[i].className.split(' ')[1];
+      var selectedColour = colours[Math.floor(wordToNumber(tag)*colours.length)];
+      tags[i].style.backgroundColor = selectedColour;
+    }
+  };
+
+  colourise("post-tag", ["#48466D", "#D4CEB0", "#FEAA2B", "#FF5757", "#6B3278", "#362999", "#4262C5", "#F6538F", "#BA6C65"]);
 };

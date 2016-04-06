@@ -4,18 +4,14 @@ layout: page
 
 Hi, I'm Juan, and {{ site.title }} is my web development consultancy.
 
-I can help you start from scratch and harness existing APIs and infrastructure, paired with custom development. Or perhaps you have an existing  stack that needs some love.
+I have experience with all aspects of delivering a web-based product, whether it be a static website, a full-blown ecommerce site, or a web API.
 
-I will work closely with your business to help you deliver the website or app that gives value to your end users. I do it all – consultation, development, provisioning, training, and support. And I can even help you build your team.
+Read more about the work I've done for my [clients](clients).
 
-Some clients I've worked with...
-
-![New Concepts Development](/assets/clients/newconcepts.png) ![Govern Digital Service](/assets/clients/gds.png) ![Condé Nast Commerce](/assets/clients/condenast.png)
-
-# Blog
+## Recent posts
 
 <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:5 %}
     <li>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
@@ -27,5 +23,3 @@ Some clients I've worked with...
     </li>
     {% endfor %}
 </ul>
-
-<p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></p>
