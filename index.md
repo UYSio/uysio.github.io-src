@@ -12,7 +12,7 @@ Read more about the work I've done for my [clients](clients), and [get in touch]
 ## Recent posts
 
 <ul class="post-list">
-    {% for post in site.posts limit:5 %}
+    {% for post in site.categories.blog limit:5 %}
     <li>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 

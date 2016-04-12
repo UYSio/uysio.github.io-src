@@ -3,6 +3,7 @@ layout: post
 title:  "N business days until"
 date:   2015-09-17 19:55:31
 tags: [dashboards]
+category: blog
 ---
 
 Communication at your business is key to levelling the knowledge landscape and eliminating surprises. One of my favourite tools for communicating KPIs and other important numbers are dashboards. Also, one of my favourite numbers when building a product is **"business days until launch"**.

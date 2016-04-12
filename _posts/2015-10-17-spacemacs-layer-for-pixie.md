@@ -3,6 +3,7 @@ layout: post
 title: "A Spacemacs layer for Pixie"
 date:   2015-10-17 15:35:34
 tags: [pixie, spacemacs, emacs]
+category: blog
 ---
 
 A major mode for [Pixie](https://github.com/pixie-lang/pixie) already [exists](https://github.com/johnwalker/pixie-mode), but I would like to use it in evil mode from [Spacemacs](https://github.com/syl20bnr/spacemacs). Hence, a [custom layer](https://github.com/UYSio/pixie-spacemacs-layer).

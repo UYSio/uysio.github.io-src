@@ -3,6 +3,7 @@ layout: post
 title: "Using Clojure with Unity3D inside Docker"
 date:   2016-03-29 10:50:20
 tags: [unity3d, clojure, docker]
+category: blog
 ---
 
 I braced myself for a thorough hack to get Clojure working in Unity3D, and found that it's [already been done](https://github.com/arcadia-unity/Arcadia).

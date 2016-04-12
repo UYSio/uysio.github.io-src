@@ -3,6 +3,7 @@ layout: post
 title:  "Security considerations of using a secure IFRAME on an insecure page"
 date:   2015-09-10 13:05:45
 tags: [security, web]
+category: blog
 ---
 
 In this essay I consider the information security implications around using a secure IFRAME (which, for example, hosts a payment or checkout page) on an insecure container page.

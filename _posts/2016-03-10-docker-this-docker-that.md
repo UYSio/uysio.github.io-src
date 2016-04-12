@@ -3,6 +3,7 @@ layout: post
 title: "Docker this, Docker that."
 date:   2016-03-10 21:47:16
 tags: [docker,unity3d,android,github]
+category: blog
 ---
 
 Ever since [Ben Firshman](https://fir.sh/) introduced us to his [side project](http://www.fig.sh/) back in 2013 at the Land Registry, I've been hooked on Docker.

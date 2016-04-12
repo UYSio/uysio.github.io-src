@@ -3,6 +3,7 @@ layout: post
 title:  "Mandelbrot fractal with Pixie on Ubuntu"
 date:   2015-10-11 22:59:15
 tags: [pixie]
+category: blog
 ---
 
 My friend [Adam](http://www.arknoon.com/) introduced me to [Pixie](https://github.com/pixie-lang/pixie) back in May, and I made a mental note to play with it a little bit. It was [Tim's StrangeLoop talk](https://www.youtube.com/watch?v=1AjhFZVfB9c), however, which inspired me to push all my other little timewasty things to one side to check this out.
