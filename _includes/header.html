@@ -8,7 +8,7 @@
         {% assign sorted_pages = site.pages | sort:"title" %}
         {% for p in sorted_pages %}
           {% if p.title %}
-            {% unless p.title contains 'Tagged' %}
+            {% unless p.title contains 'Tagged' or p.title contains 'Games' %}
             <li>
               <a class="page-link" href="{{ p.url | prepend: site.baseurl }}">
 
