@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-Hi, I'm Juan, and {{ site.title }} is my web development consultancy.
+Hi, [I'm Juan](about), and {{ site.title }} is my web development consultancy.
 
 I have experience with all aspects of delivering a web-based product, whether it be a static website, a full-blown ecommerce site, or a web API.
 
