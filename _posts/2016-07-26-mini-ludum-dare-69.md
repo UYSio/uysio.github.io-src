@@ -8,6 +8,8 @@ category: blog
 
 I started hacking on my [mini-LD 69 entry](/projects/ld69/) about 2 weeks ago.
 
+> If the game doesn't seem to load (no 3D objects) or devtools shows a JS error, just refresh the page - apparently my RequireJS fu leaves something to be desired.
+
 Why? I love games, and wanted to do something other than the Finance Gubbins I'm currently building. *(hush hush - I'll link to it later once I get permission)*
 
 # Notes
