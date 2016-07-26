@@ -1,0 +1,63 @@
+body {
+    background: #fafafa;
+    font-family: monospace;
+    color: #333;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+.world {
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.progress {
+    position: absolute;
+    top: 15px;
+    width: 100%;
+    margin: 2em 0 0;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.progress_content {
+    position: relative;
+    display: inline-block;
+    padding: 0 1em;
+    vertical-align: top;
+}
+.message {
+  color: #eee;
+  font-size: 3em;
+}
+.yes {
+  color: #68c3c0;
+}
+.no {
+  color: #f25346;
+}
+.level {
+  color: #ddd;
+}
+.planet {
+  color: #ff00ff;
+}
+.colonists {
+  color: #0000ff;
+}
+.nondescript {
+  color: #aaa;
+}
+.nondescript a {
+  color: #777;
+}
+
+.container {
+  margin: 30px;
+  display: inline-block;
+  vertical-align: top;
+  width: 600px;
+}

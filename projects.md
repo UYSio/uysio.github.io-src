@@ -8,6 +8,7 @@ title: Projects
 - [pdfcrun.ch](#pdfcrunch)
 - [+1 News](#1-news)
 - [Taxi meter built to TFL spec](#taxi-meter-built-to-tfl-spec)
+- [MiniLD #69](#minild-69)
 
 <!-- markdown-toc end -->
 
@@ -35,3 +36,13 @@ If you're a computer vision expert, please contact me at [this address](mailto:j
 
 - accurate rate calculation over discontinuous time
 - successfully used in traffic simulations
+
+# MiniLD #69
+
+> [code here](https://github.com/opyate/minild69), [game here](/projects/ld69/)
+
+I decided to enter [Ludum Dare](http://ludumdare.com/) (the mini one!) a couple of weeks ago.
+
+My [game](projects/ld69) is called **:isation**, and was made with [three.js](http://threejs.org/).
+
+I [wrote about it]( {% post_url 2016-07-26-mini-ludum-dare-69 %}).
