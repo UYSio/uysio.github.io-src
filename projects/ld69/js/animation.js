@@ -159,6 +159,7 @@ define([
     };
 
     var creep = function(world) {
+        // 570 - config.distance
         if (!isAnimatingPlanes && world.props.planet.mesh.children.length > 0) {
             var plane = _.head(world.level.planes);
 
@@ -166,11 +167,20 @@ define([
 
             plane.mesh.position.set(0, 0, plane.mesh.position.z - gain);
 
+            // percentage colony is between 570px and config.distance
+            var distance = calcs.stencilZ(1, world.level.stencils.numberOfStencils);
+            var pc = (plane.mesh.position.z - config.distance) / (distance - config.distance) * 100;
+            pc = 100 - Math.round(pc);
+            if (pc < 0) pc = 0;
+            world.stage.hud.info.innerHTML = 'autoslam ' + pc + '%';
+
             if (plane.mesh.position.z < config.distance) {
                 if (!isAnimatingCube) {
                     slam(world);
                 }
             }
+        } else {
+            world.stage.hud.info.innerHTML = 'press &lt;space&gt;';
         }
     };
 

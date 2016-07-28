@@ -53,9 +53,17 @@ define([
         return idx * ((config.width / 2) + (numberOfStencils - idx) * 10) + config.distance;
     }
 
+
+    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+    // Returns a random number between min (inclusive) and max (exclusive)
+    function rndRange(min, max) {
+        return Math.random() * (max - min) + min;
+    }
+
     return {
         rand: getRndBias,
         params: getStencilParameters,
-        stencilZ: stencilPosition
+        stencilZ: stencilPosition,
+        rndRange: rndRange
     };
 });

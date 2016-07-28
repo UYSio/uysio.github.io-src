@@ -29,35 +29,62 @@ body {
     padding: 0 1em;
     vertical-align: top;
 }
+
+.game_info {
+    position: absolute;
+    bottom: 15px;
+    width: 100%;
+    margin: 2em 0 0;
+    text-align: center;
+    white-space: nowrap;
+}
+
 .message {
-  color: #eee;
-  font-size: 3em;
+    color: #eee;
+    font-size: 3em;
 }
+
 .yes {
-  color: #68c3c0;
+    color: #68c3c0;
 }
+
 .no {
-  color: #f25346;
+    color: #f25346;
 }
+
 .level {
-  color: #ddd;
+    color: #ddd;
 }
+
 .planet {
-  color: #ff00ff;
+    color: #ff00ff;
 }
+
 .colonists {
-  color: #0000ff;
+    color: #0000ff;
 }
+
 .nondescript {
-  color: #aaa;
+    color: #aaa;
 }
+
 .nondescript a {
-  color: #777;
+    color: #777;
+}
+
+.start {
+    color: #333;
+    background-color: #ffff00;
+    padding: 5px;
+}
+
+.start:after {
+    content: '\00bb';
 }
 
 .container {
-  margin: 30px;
-  display: inline-block;
-  vertical-align: top;
-  width: 600px;
+    margin: 30px;
+    display: inline-block;
+    vertical-align: top;
+    width: 600px;
 }

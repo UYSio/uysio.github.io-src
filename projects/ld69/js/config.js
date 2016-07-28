@@ -12,7 +12,7 @@ define([], function () {
             // the number of levels after which stencil size and difficulty changes
             threshold: 7,
             initStencilWidth: 3,
-            creepGain: 0.5
+            creepGain: 0.05
         },
         // number of misses at which player looses
         threshold: 42, // change this in index.html too...

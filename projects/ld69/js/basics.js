@@ -71,7 +71,8 @@ define(['controls', 'config', 'promise'], function(controls, config, promise) {
                 level: document.getElementById('level'),
                 score: document.getElementById('score'),
                 missed: document.getElementById('missed'),
-                message: document.getElementById('message')
+                message: document.getElementById('message'),
+                info: document.getElementById('info')
             }
         };
     };

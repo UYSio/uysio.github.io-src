@@ -40,11 +40,7 @@ define([
 
             var level = levels.getLevel(world);
             world.level = level;
-            console.log(
-                'LEVEL',
-                world.level.stencils.level,
-                world.level.stencils.debug.stencilsUsed
-            );
+            //console.log('LEVEL', world.level.stencils.level, world.level.stencils.debug.stencilsUsed);
         }
 
         world.stage.hud.missed.innerHTML = world.progress.missed;
@@ -54,7 +50,6 @@ define([
             var x = -0.005;
             var y = 0.01;
             var z = 0.005;
-
 
             if (!deathMessage) {
                 deathMessage = _.sample(config.loose);
@@ -72,6 +67,8 @@ define([
             world.props.container.rotation.x += x;
             world.props.container.rotation.y += y;
             world.props.container.rotation.z += z;
+
+            world.stage.hud.info.innerHTML = 'refresh page to colonise again!';
         } else {
             // STILL IN PLAY
             _.each(['a', 'd', 'w', 's', 'q', 'e', 'space'], function (direction) {
@@ -103,8 +100,6 @@ define([
 
             world.stage.hud.score.innerHTML = score.on;
         }
-
-
 
         tween.update();
 

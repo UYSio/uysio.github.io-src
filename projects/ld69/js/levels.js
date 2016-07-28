@@ -39,6 +39,9 @@ define([
             var stencilObj = logic.stencils[randomStencilIndex];
             stencilsUsed.push(stencilObj.name);
             var stencil = logic.faces.initFace(stencilParams.width, stencilObj.fn);
+            // randomly rotate stencil first (tx prankard@LD)
+            stencil = logic.faces.rotate(stencil, calcs.rndRange(0,3));
+
             stencils.push(stencil);
 
             // TODO see note on logic.js L133
@@ -97,7 +100,7 @@ define([
     });
     var invisibleMaterial = new THREE.MeshBasicMaterial({
         transparent: true,
-        opacity: 0.0,
+        opacity: 0.3,
         side: THREE.DoubleSide
     });
     var materials = [
@@ -136,21 +139,8 @@ define([
     }
 
     var creepGain = function (levelNumber) {
-        // 0.5 to 5.0 is good, but we want to cycle between these 2 values
-        // dependling on stencil complexity and levelNumber.
-        // We want to reach 5.0 around level 20.
-
-        var stencilParams = calcs.params(
-            levelNumber,
-            logic.stencils.length,
-            config.level.initStencilWidth
-        );
-
-        // levelNumber at ~20 / 4 will give 5.0 : our first difficult gain.
-        // From there it will go up.
-
-        var gain = ((levelNumber + 1) / 4) + (config.level.creepGain * stencilParams.idx);
-        return gain;
+        var g = config.level.creepGain;
+        return (levelNumber + 1) * g;
     };
 
     return {

@@ -1,11 +1,7 @@
-define([], function() {
+define([
+    'calcs'
+], function(calcs) {
     "use strict";
-
-    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-    // Returns a random number between min (inclusive) and max (exclusive)
-    function getRandomArbitrary(min, max) {
-        return Math.random() * (max - min) + min;
-    }
 
     function addPlanet(size, pos) {
         size = size || 200;
@@ -13,7 +9,7 @@ define([], function() {
         var geometry = new THREE.BoxGeometry(size, size, size);
         geometry.name = "planet";
         // 100 - 256
-        var r = getRandomArbitrary(100, 256); // green to blue for planets with LIFE!
+        var r = calcs.rndRange(100, 256); // green to blue for planets with LIFE!
 
         // TODO use one colour, and a point light!
         var colors = _.times(6, function(i) {
