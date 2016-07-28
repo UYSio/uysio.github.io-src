@@ -5,8 +5,9 @@ define([
     'rotation',
     'util',
     'logic',
-    'calcs'
-], function(config, tween, slammer, rotation, util, logic, calcs) {
+    'calcs',
+    'levels'
+], function(config, tween, slammer, rotation, util, logic, calcs, levels) {
     "use strict";
 
     var isAnimatingCube = false;
@@ -61,7 +62,7 @@ define([
     }
 
     var rotatePlanet = function(world, direction) {
-        if (!isAnimatingCube) {
+        if (!isAnimatingCube && !isAnimatingPlanes) {
             var state = getDeltaForDirection(direction);
 
             var previous = 0; // for rotation tweening, not motion tweening
@@ -157,8 +158,25 @@ define([
         }
     };
 
+    var creep = function(world) {
+        if (!isAnimatingPlanes && world.props.planet.mesh.children.length > 0) {
+            var plane = _.head(world.level.planes);
+
+            var gain = levels.getGain(world.progress.levelNumber);
+
+            plane.mesh.position.set(0, 0, plane.mesh.position.z - gain);
+
+            if (plane.mesh.position.z < config.distance) {
+                if (!isAnimatingCube) {
+                    slam(world);
+                }
+            }
+        }
+    };
+
     return {
         rotatePlanet: rotatePlanet,
-        slam: slam
+        slam: slam,
+        creep: creep
     };
 });

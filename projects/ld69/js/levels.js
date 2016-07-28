@@ -135,7 +135,26 @@ define([
         };
     }
 
+    var creepGain = function (levelNumber) {
+        // 0.5 to 5.0 is good, but we want to cycle between these 2 values
+        // dependling on stencil complexity and levelNumber.
+        // We want to reach 5.0 around level 20.
+
+        var stencilParams = calcs.params(
+            levelNumber,
+            logic.stencils.length,
+            config.level.initStencilWidth
+        );
+
+        // levelNumber at ~20 / 4 will give 5.0 : our first difficult gain.
+        // From there it will go up.
+
+        var gain = ((levelNumber + 1) / 4) + (config.level.creepGain * stencilParams.idx);
+        return gain;
+    };
+
     return {
-        getLevel: level
+        getLevel: level,
+        getGain: creepGain
     };
 });

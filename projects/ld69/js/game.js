@@ -87,6 +87,9 @@ define([
                 }
             });
 
+            // move colonies closer
+            animation.creep(world);
+
             // update hud
             world.stage.hud.level.innerHTML = world.progress.levelNumber;
             var score = _.reduce(world.progress.scores, function (acc, score) {

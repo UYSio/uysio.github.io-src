@@ -11,8 +11,10 @@ define([], function () {
         level: {
             // the number of levels after which stencil size and difficulty changes
             threshold: 7,
-            initStencilWidth: 3
+            initStencilWidth: 3,
+            creepGain: 0.5
         },
+        // number of misses at which player looses
         threshold: 42, // change this in index.html too...
         loose: [
             "Coloniser? Colonoscopy!",
