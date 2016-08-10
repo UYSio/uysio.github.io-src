@@ -1,0 +1,52 @@
+https://keybase.io/uys
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://uys.io
+  * I am uys (https://keybase.io/uys) on keybase.
+  * I have a public key ASAEb-1niBNrEAY5hBrToug9GMNelhTuctV-6Kaq9cPkWQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101c4d9e53c619f8e0a128b5bd46ae9da6072026e6917018f538cb0f7368f5da0c70a",
+            "host": "keybase.io",
+            "kid": "0120046fed6788136b100639841ad3a2e83d18c35e9614ee72d57ee8a6aaf5c3e4590a",
+            "uid": "243aaed7dd5e873d9aca2524e60d3419",
+            "username": "uys"
+        },
+        "service": {
+            "hostname": "uys.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1470818939,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1470818786,
+        "hash": "ffe7b906e44781b305d6353cdeb0aee5afe98616ccf2703a37eff604bd042969387ca693924b1bc766596a53fe2b607064$0cefe9eee339de218fc9d6c93055a",
+        "seqno": 568533
+    },
+    "prev": "00731be0ab2b6a99dffbe26ffaa483acfd3258395739dad056ebf2f3f3f069c3",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBG/tZ4gTaxAGOYQa06LoPRjDXpYU7nLVfuimqvXD5FkKp3BheWxvYWTFAuh7ImJvZHk$Onsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYzRkOWU1M2M2MTlmOGUwYTEyOGI1YmQ0NmFlOWRhNjA3MjAyNmU2OTE3MDE4ZjUzOGNiMGY3MzY4ZjV$YTBjNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDQ2ZmVkNjc4ODEzNmIxMDA2Mzk4NDFhZDNhMmU4M2QxOGMzNWU5NjE0ZWU3MmQ$N2VlOGE2YWFmNWMzZTQ1OTBhIiwidWlkIjoiMjQzYWFlZDdkZDVlODczZDlhY2EyNTI0ZTYwZDM0MTkiLCJ1c2VybmFtZSI6InV5cyJ9LCJzZXJ2aWN$Ijp7Imhvc3RuYW1lIjoidXlzLmlvIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJ$bGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ3MDgxODkzOSwiZXhwaXJlX2l$Ijo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDcwODE4Nzg2LCJoYXNoIjoiZmZlN2I5MDZlNDQ3ODFiMzA1ZDYzNTNjZGViMGFlZTV$ZmU5ODYxNmNjZjI3MDNhMzdlZmY2MDRiZDA0Mjk2OTM4N2NhNjkzOTI0YjFiYzc2NjU5NmE1M2ZlMmI2MDcwNjQ4MGNlZmU5ZWVlMzM5ZGUyMThmYzl$NmM5MzA1NWEiLCJzZXFubyI6NTY4NTMzfSwicHJldiI6IjAwNzMxYmUwYWIyYjZhOTlkZmZiZTI2ZmZhYTQ4M2FjZmQzMjU4Mzk1NzM5ZGFkMDU2ZWJ$MmYzZjNmMDY5YzMiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECVhKbWjLZIcdhueAWL8AVt3abogEiYEt7aBscqetZxr2oNA0i92jC$+zQrd2IUzDW0xV5f2E5nW3wrwUIubYsJqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQggm//RZJXQZoO0DSjNKap+4ZtcBpTNU808PLVvLnYVV6$dGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/uys
+
