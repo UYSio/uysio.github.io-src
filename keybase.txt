@@ -3,7 +3,7 @@ https://keybase.io/uys
 
 I hereby claim:
 
-  * I am an admin of http://uys.io
+  * I am an admin of http://www.uys.io
   * I am uys (https://keybase.io/uys) on keybase.
   * I have a public key ASAEb-1niBNrEAY5hBrToug9GMNelhTuctV-6Kaq9cPkWQo
 
@@ -19,7 +19,7 @@ To do so, I am signing this object:
             "username": "uys"
         },
         "service": {
-            "hostname": "uys.io",
+            "hostname": "www.uys.io",
             "protocol": "http:"
         },
         "type": "web_service_binding",
@@ -29,21 +29,21 @@ To do so, I am signing this object:
         "name": "keybase.io go client",
         "version": "1.0.16"
     },
-    "ctime": 1470818939,
+    "ctime": 1470819093,
     "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1470818786,
-        "hash": "ffe7b906e44781b305d6353cdeb0aee5afe98616ccf2703a37eff604bd042969387ca693924b1bc766596a53fe2b607064$0cefe9eee339de218fc9d6c93055a",
-        "seqno": 568533
+        "ctime": 1470819065,
+        "hash": "cdec5940a3270c28c8dfab4274330e6c6a6ba927bf9fcfc74df7f8126a3a5aa46df774a61c03e25600dd5e1c3bc21f9fd87c766d4a286ac664d8bf83fc146322",
+        "seqno": 568542
     },
-    "prev": "00731be0ab2b6a99dffbe26ffaa483acfd3258395739dad056ebf2f3f3f069c3",
-    "seqno": 8,
+    "prev": "6506d0415691df4e300ac32f8de5bf16895f776d78a9b646bfb069febc95274b",
+    "seqno": 9,
     "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBG/tZ4gTaxAGOYQa06LoPRjDXpYU7nLVfuimqvXD5FkKp3BheWxvYWTFAuh7ImJvZHk$Onsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYzRkOWU1M2M2MTlmOGUwYTEyOGI1YmQ0NmFlOWRhNjA3MjAyNmU2OTE3MDE4ZjUzOGNiMGY3MzY4ZjV$YTBjNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDQ2ZmVkNjc4ODEzNmIxMDA2Mzk4NDFhZDNhMmU4M2QxOGMzNWU5NjE0ZWU3MmQ$N2VlOGE2YWFmNWMzZTQ1OTBhIiwidWlkIjoiMjQzYWFlZDdkZDVlODczZDlhY2EyNTI0ZTYwZDM0MTkiLCJ1c2VybmFtZSI6InV5cyJ9LCJzZXJ2aWN$Ijp7Imhvc3RuYW1lIjoidXlzLmlvIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJ$bGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ3MDgxODkzOSwiZXhwaXJlX2l$Ijo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDcwODE4Nzg2LCJoYXNoIjoiZmZlN2I5MDZlNDQ3ODFiMzA1ZDYzNTNjZGViMGFlZTV$ZmU5ODYxNmNjZjI3MDNhMzdlZmY2MDRiZDA0Mjk2OTM4N2NhNjkzOTI0YjFiYzc2NjU5NmE1M2ZlMmI2MDcwNjQ4MGNlZmU5ZWVlMzM5ZGUyMThmYzl$NmM5MzA1NWEiLCJzZXFubyI6NTY4NTMzfSwicHJldiI6IjAwNzMxYmUwYWIyYjZhOTlkZmZiZTI2ZmZhYTQ4M2FjZmQzMjU4Mzk1NzM5ZGFkMDU2ZWJ$MmYzZjNmMDY5YzMiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECVhKbWjLZIcdhueAWL8AVt3abogEiYEt7aBscqetZxr2oNA0i92jC$+zQrd2IUzDW0xV5f2E5nW3wrwUIubYsJqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQggm//RZJXQZoO0DSjNKap+4ZtcBpTNU808PLVvLnYVV6$dGFnzQICp3ZlcnNpb24B
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBG/tZ4gTaxAGOYQa06LoPRjDXpYU7nLVfuimqvXD5FkKp3BheWxvYWTFAux7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYzRkOWU1M2M2MTlmOGUwYTEyOGI1YmQ0NmFlOWRhNjA3MjAyNmU2OTE3MDE4ZjUzOGNiMGY3MzY4ZjVkYTBjNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDQ2ZmVkNjc4ODEzNmIxMDA2Mzk4NDFhZDNhMmU4M2QxOGMzNWU5NjE0ZWU3MmQ1N2VlOGE2YWFmNWMzZTQ1OTBhIiwidWlkIjoiMjQzYWFlZDdkZDVlODczZDlhY2EyNTI0ZTYwZDM0MTkiLCJ1c2VybmFtZSI6InV5cyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LnV5cy5pbyIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzA4MTkwOTMsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MDgxOTA2NSwiaGFzaCI6ImNkZWM1OTQwYTMyNzBjMjhjOGRmYWI0Mjc0MzMwZTZjNmE2YmE5MjdiZjlmY2ZjNzRkZjdmODEyNmEzYTVhYTQ2ZGY3NzRhNjFjMDNlMjU2MDBkZDVlMWMzYmMyMWY5ZmQ4N2M3NjZkNGEyODZhYzY2NGQ4YmY4M2ZjMTQ2MzIyIiwic2Vxbm8iOjU2ODU0Mn0sInByZXYiOiI2NTA2ZDA0MTU2OTFkZjRlMzAwYWMzMmY4ZGU1YmYxNjg5NWY3NzZkNzhhOWI2NDZiZmIwNjlmZWJjOTUyNzRiIiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RACjEe/drFdtAFx2f22YvIHzgq2EnjeOP7IkD13CHqo6+09vuVQZErLOEaAueses0wv+AatsDB4yn78TA9gM2vD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDsAoJoODJCLZyys3CCmURVKByf4ZlAh+5AWULQX259Oo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
