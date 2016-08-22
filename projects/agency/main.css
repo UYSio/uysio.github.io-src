@@ -1,0 +1,313 @@
+a strong {
+    color: inherit;
+}
+
+hr {
+    background: none;
+    border: none;
+    border-bottom: 1px solid #d8dee9;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+footer {
+  align-items: center;
+  /* text-align: center; */
+  justify-content: center;
+    display: flex;
+
+    margin: 0 auto;
+    max-wdith: 100%;
+padding: 0 1em 4em 1em;
+    display: block;
+}
+
+header,
+main {
+    margin: 0 auto;
+    max-width: 100%;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+a strong {
+    color: inherit;
+}
+
+a {
+    color: #e81c4f;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    -moz-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    background: white;
+    color: #555;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+strong {
+  color: #333;
+    font-weight: 500;
+}
+
+h2 strong {
+  background-color: #e81c4f;
+  color: #ffffe8;
+  padding: 1px;
+  text-transform: uppercase;
+}
+h2 em {
+  background-color: #ffffe8;
+  color: #e81c4f;
+  padding: 1px;
+  text-transform: lowercase;
+}
+h2 em::before {
+  content: ".";
+}
+
+main {
+    padding: 0 1em 4em 1em;
+}
+
+header {
+    background-color: #FFFFE8;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 1.2;
+    max-width: none;
+    padding: 3vw 2em 7vw 2em;
+}
+
+header h1 {
+    font-size: 2.5em;
+    font-weight: 300;
+}
+
+header a {
+    border: 1px solid #e81c4f;
+    font-size: 0.6em;
+    letter-spacing: 0.2em;
+    padding: 1em 2em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: none 200ms ease-out;
+    transition-property: color, background;
+}
+
+header a:hover {
+    background: #e81c4f;
+    color: white;
+}
+
+html a.button {
+    border: 1px solid #d8dee9;
+    color: #b0bfc7;
+    padding: 1em 1.5em;
+    text-align: center;
+    text-decoration: none;
+    transition: none 200ms ease-out;
+    transition-property: color, background;
+}
+
+html a.button strong {
+    color: #e81c4f;
+}
+
+.button:hover {
+    background: #e81c4f;
+    border-color: transparent;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.button em {
+    display: block;
+    font-size: 0.6em;
+    font-style: normal;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+.button strong {
+    color: #e81c4f;
+    transition: color 200ms ease-out;
+}
+
+.button:hover strong {
+    color: white !important;
+}
+
+.button.github strong {
+    color: #333;
+}
+
+.button.github:hover {
+    background: #333;
+}
+
+.button.facebook strong {
+    color: #3b5998;
+}
+
+.button.facebook:hover {
+    background: #3b5998;
+}
+
+.button.twitter strong {
+    color: #55acee;
+}
+
+.button.twitter:hover {
+    background: #55acee;
+}
+
+footer .button {
+    font-size: 0.8em;
+    padding: 1em 2em;
+    border: none !important;
+}
+
+.buttons .button {
+    display: block;
+    margin-bottom: 1em;
+}
+
+@media (min-width: 600px) {
+    .buttons {
+        align-items: center;
+        display: flex;
+        justify-content: space-between;
+        padding: 1em 0;
+    }
+    .buttons .button {
+        flex-grow: 1;
+        flex-shrink: 0;
+        margin-bottom: 0;
+        margin-right: 1em
+    }
+    .buttons .button:last-child {
+        margin-right: 0;
+    }
+}
+
+.profile {
+  padding-bottom: 2vw;
+    overflow: hidden;
+}
+
+.profile img {
+    margin-right: 20px;
+    float: left;
+}
+
+
+/* SPA stuff */
+
+main > .tab:last-of-type {
+    order: 0;
+}
+
+main > article:last-of-type {
+    display: block;
+}
+
+main > article:target ~ article {
+    display: none;
+}
+
+main > article:target ~ .tab {
+    background-color: white;
+    font-weight: normal;
+}
+
+main > .tab:last-of-type {
+    background-color: white;
+    font-weight: bold;
+}
+
+main > article {
+    display: none;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(0.995)
+    }
+    100% {
+        transform: scale(1)
+    }
+}
+
+main > article:target {
+    display: block;
+    animation: pulse 0.3s linear 1;
+}
+
+@keyframes droop {
+    0% {
+        background-color: white;
+    }
+    100% {
+        background-color: #FFFFE8;
+    }
+}
+
+main > article:target + .tab {
+  font-weight: bold;
+  background-color: #FFFFE8;
+    animation: droop 2s linear 1;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+main > .tab {
+    order: 1;
+}
+
+main > article {
+    order: 3;
+}
+
+article {
+    min-width: 100%;
+    padding: 0.7rem;
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+
+main > .tab {
+    padding: 1em;
+    color: #555;
+    text-decoration: none;
+}
+
+/* fun */
+#adamblurb:hover::after {
+  content: "He is our steady hand, and his favourite phrase is 'calm down'. If you look him up in the dictionary, it says 'see Essentialism'.";
+}
+#juanblurb:hover::after {
+  content: "If he was a dog, he'd have 65 human years of experience in tech. He thinks his best skill is software architecture, but we think it's the way he catches a frisbee with his mouth.";
+}
+#samblurb:hover::after {
+  content: "He was once caught in a spam filter, and had to drop the 'p' in his name to get out.";
+}
