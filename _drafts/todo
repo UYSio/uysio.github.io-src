@@ -1,0 +1,10 @@
+https://news.ycombinator.com/item?id=12187132
+
+I've been trying to find some opinions on the "first rule", i.e. "Centering".
+Phones and tablets are already a book-like viewport. Desktop browsers are a different matter, for these presumed reasons:
+- most monitors in 2016 have lots of pixels along the X axis
+- most browsers are maximised or run in full-screen mode
+Joe Designer also has lots of pixels and/or a maximised browser, hence squashes content into a column.
+Some do it wrong, which means some websites end up looking like a thin column of text on your cinema display.
+What I'm getting at is this: I run my desktop browsers already in a book-like viewport (using Spectacle.app on Mac and XMonad on Arch Linux, or a simple resize-with-trackpad when I don't) so I'm a few keystrokes away from having to parse long lines of text. I don't really like it when website authors choose my viewport width on my behalf.
+Choosing your own typefaces and colours - fine. Layout? Not so much. What do others think?
