@@ -9,6 +9,8 @@ I have experience with all aspects of delivering a web-based product, whether it
 
 Read more about the work I've done for my [clients](clients), and [get in touch](contact) if you'd like to collaborate.
 
+In fact, I suggest you hire my [entire team](http://www.freeform.digital/#who-we-are), as we have extensive experience working together. Greater than the sum of its parts and all that!
+
 ## Recent posts
 
 <ul class="post-list">
