@@ -65,7 +65,7 @@ I'm a web developer with specialisation in scalability and [prototyping](https:/
 - credit scoring
 - historical finance data parsing, reliably extracting tabular data from government PDFs
 - technologies include Scala, AngularJS, and AWS
-- [reference available](https://cdn.opyate.com/references/New+Concepts+Development+(credit+monster).pdf)
+- [reference available](https://cdn.opyate.com/references/CreditMonster.pdf)
 - fully remote, with co-developers in Belgium, US East Coast and California
 
 ## [Qudini](https://www.qudini.com/)
