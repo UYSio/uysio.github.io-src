@@ -16,7 +16,9 @@ $spacing-unit:     50px;
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #4262C5;
+$brand-color-l:    lighten($brand-color, 45%);
 $brand-color-alt:  #6B3278;
+$brand-color-alt-l:lighten($brand-color-alt, 60%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -48,6 +50,5 @@ $on-device:          800px;
         "base",
         "layout",
         "tags",
-        "syntax",
         "print"
 ;

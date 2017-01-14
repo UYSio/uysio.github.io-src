@@ -15,8 +15,6 @@ title: Projects
 
 # pdfcrun.ch
 
-![pdfcrun.ch](/assets/projects/pdfcrunch.png)
-
 [pdfcrun.ch](https://pdfcrun.ch/) was borne of the recurring patterns I noticed of data being locked up inside PDFs in the wild.
 
 It's currently in private beta testing.
@@ -39,10 +37,10 @@ If you're a computer vision expert, please contact me at [this address](mailto:j
 
 # MiniLD #69
 
-> [code here](https://github.com/opyate/minild69), [game here](/projects/ld69/)
+> [code here](https://github.com/opyate/minild69), [game here](http://cdn.opyate.com/projects/ld69/)
 
 I decided to enter [Ludum Dare](http://ludumdare.com/) (the mini one!) a couple of weeks ago.
 
 My [game](projects/ld69) is called **:isation**, and was made with [three.js](http://threejs.org/).
 
-I [wrote about it]( {% post_url 2016-07-26-mini-ludum-dare-69 %}).
+I [wrote about it](https://opyate.com/2016/07/26/mini-ludum-dare-69/).

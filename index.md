@@ -3,26 +3,8 @@ layout: page
 title: Home
 ---
 
-Hi, [I'm Juan](about), and {{ site.title }} is my web development consultancy.
+Hi, [I'm Juan](https://opyate.com), and {{ site.title }} is my web development consultancy.
 
-I have experience with all aspects of delivering a web-based product, whether it be a static website, a full-blown ecommerce site, or a web API.
+Read more about the [work I've done](cv), and get in touch via [email](mailto:juan+www@uys.io) or [Skype](skype:opyate?call) if you'd like to collaborate.
 
-Read more about the work I've done for my [clients](clients), and [get in touch](contact) if you'd like to collaborate.
-
-In fact, I suggest you hire my [entire team](http://www.freeform.digital/#who-we-are), as we have extensive experience working together. Greater than the sum of its parts and all that!
-
-## Recent posts
-
-<ul class="post-list">
-    {% for post in site.categories.blog limit:5 %}
-    <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-
-        {% if post.tags.size > 0 %}
-          {% for tag in post.tags %}
-            <a class="post-tag {{ tag | slugize }}" href="{{ site.url }}/tag/{{ tag }}">{{ tag }}</a>
-          {% endfor %}
-        {% endif %}
-    </li>
-    {% endfor %}
-</ul>
+I write about [tech things](https://opyate.com/tag/tech/) on my blog, and you can follow me on [Github](https://github.com/opyate/).

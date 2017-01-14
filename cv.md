@@ -3,13 +3,22 @@ layout: page
 title: CV
 ---
 
+# Curriculum Vitae of Juan M. Uys
 
-# Juan M. Uys
+A few things about me:
 
-I'm a web developer with specialisation in scalability and [prototyping](https://opyate.com/tag/hackathon/). I'm [fully equipped for remote working](https://opyate.com/2016/10/17/my-new-home-office/), and can also come to your office anywhere along the Great Northern Line from [Winchmore Hill](https://www.google.co.uk/maps/place/Winchmore+Hill/@51.634102,-0.1046337,17z/data=!4m5!3m4!1s0x4876192e8547b05d:0x2a644bae979ee31!8m2!3d51.6339399!4d-0.1008698) right down to [Moorgate](https://www.google.co.uk/maps/place/Moorgate/@51.5194077,-0.090235,16z/data=!4m8!1m2!2m1!1smoorgate!3m4!1s0x0:0xda442f7548e1a968!8m2!3d51.5184156!4d-0.0889152). I have 15 years experience with web technologies, and latterly have been working in the guise of a consultant via my company [Unleash Your Server](https://uys.io).
+- full-stack web developer for 15 years
+- good at [prototyping](https://opyate.com/tag/hackathon/) and scaling systems
+- takes machine learning for granted
+- based in [London](https://www.google.co.uk/maps/place/London+N21)
+- fully equipped for [remote working](https://opyate.com/2016/10/17/my-new-home-office/)
 
+## Contact
 
-# Education
+[juan+cv@uys.io](mailto:juan+cv@uys.io)
+[+44 7702 783 956](tel:+447702783956)
+
+## Education
 
 - How to be a dad (Home, 2013 - current)
 - Certificate in Computational Investing (Georgia Institute of Technology, 2013)
@@ -21,9 +30,9 @@ I'm a web developer with specialisation in scalability and [prototyping](https:/
 - Diploma in Artificial Intelligence & Neural Networks (International School for Scientific Computing, 2001)
 - Qualified advanced scuba diver (NAUI, 1995)
 
-# Roles
+## Roles
 
-## [The Capital Markets Company (CAPCO)](http://capco.com/)
+### [The Capital Markets Company (CAPCO)](http://capco.com/)
 
 > May 2016 to current, as [consultant](https://uys.io)
 
@@ -32,23 +41,26 @@ I'm a web developer with specialisation in scalability and [prototyping](https:/
 - technologies include D3, Angular1/2, and the MEAN stack
 - CI/CD using CircleCI, Docker Hub/Cloud, and AWS
 
-## Re-skill and game development
+### Re-skill and game development
 
 > April 2016
 
 - familiarise myself with [D3.js](https://d3js.org/) version 4
 - start working on my [super secret game](https://opyate.com/tag/gamedev/), using Unity3D and C#
 
-## [Style.com](https://www.style.com/) and Condé Nast Commerce
+### [Style.com](https://www.style.com/) and Condé Nast Commerce
 
 > July 2015 to March 2016, as [consultant](https://uys.io)
 
 - team lead for Conde Nast’s Platform Team of six
-- technologies include Clojure, ClojureScript, NodeJS, Kubernetes, and Docker
-- integration with [SAP Hybris](https://www.hybris.com/en/)
+- development with Clojure, Javascript, Ruby, and PHP
+- ops with Kubernetes, Docker, and AWS
+- integration with [SAP Hybris](https://www.hybris.com/en/) and [Mirakl](https://www.mirakl.com/)
+- interviews, and devised a remote interview system
 - web proxy using Mashape's [Kong](https://getkong.org), with a subsequent [FOSS contribution](https://github.com/Mashape/kong/pull/1094)
+- instilled the ["measure measure measure" approach](https://www.gov.uk/performance) adopted at GOV.UK
 
-## [Government Digital Service (GDS)](https://gds.blog.gov.uk/)
+### [Government Digital Service (GDS)](https://gds.blog.gov.uk/)
 
 > March 2014 to June 2015, as [consultant](https://uys.io)
 
@@ -58,17 +70,19 @@ I'm a web developer with specialisation in scalability and [prototyping](https:/
 - fostering code re-use across ministries, agencies, and departments
 - Cross government services [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works) or a "Facebook for Civil Servants" using [Express](http://expressjs.com/) and Python
 
-## [Credit Monster](https://creditmonster.com/) and [New Concepts Development](http://newconceptscompany.com/)
+### [Credit Monster](https://creditmonster.com/) and [New Concepts Development](http://newconceptscompany.com/)
 
 > August 2013 to March 2014, as freelancer
 
-- credit scoring
+- PDF parsing
+- credit scoring and lead generation
 - historical finance data parsing, reliably extracting tabular data from government PDFs
 - technologies include Scala, AngularJS, and AWS
+- helping them reach the number 4 spot for credit rating services in the USA
 - [reference available](https://cdn.opyate.com/references/CreditMonster.pdf)
 - fully remote, with co-developers in Belgium, US East Coast and California
 
-## [Qudini](https://www.qudini.com/)
+### [Qudini](https://www.qudini.com/)
 
 > August 2013 to March 2014, as freelancer
 
@@ -76,7 +90,7 @@ I'm a web developer with specialisation in scalability and [prototyping](https:/
 - technologies include Java, Playframework, MySQL, and AWS
 - [reference available](https://cdn.opyate.com/references/Qudini.pdf)
 
-## [Dohub](http://dohubenterprise.com/)
+### [Dohub](http://dohubenterprise.com/)
 
 > August 2013 to March 2014, as freelancer
 
@@ -85,7 +99,7 @@ I'm a web developer with specialisation in scalability and [prototyping](https:/
 - [reference available](https://cdn.opyate.com/references/Dohub.pdf)
 - fully remote
 
-## pollarize.me
+### pollarize.me
 
 > March 2012 to March 2013, evenings and weekends
 
@@ -96,7 +110,7 @@ I'm a web developer with specialisation in scalability and [prototyping](https:/
 - integrations include [blitline](https://www.blitline.com/v3/home), [Twilio](https://www.twilio.com/), [PubNub](https://www.pubnub.com/), [Urban Airship](https://www.urbanairship.com/), and [Mailgun](https://www.mailgun.com/)
 - blog about [our architecture](https://opyate.com/2012/11/20/pollarize-architecture-at-a-glance/)
 
-## [Net-A-Porter.com Group](https://www.net-a-porter.com/) (pre-YOOX)
+### [Net-A-Porter.com Group](https://www.net-a-porter.com/) (pre-YOOX)
 
 > January 2007 to August 2013, as developer
 
@@ -108,7 +122,7 @@ I'm a web developer with specialisation in scalability and [prototyping](https:/
 - search and sitemap automation using Spring Batch, Apache Nutch and Solr, later ElasticSearch
 - gluing together parts of our CI system using Lift (Scala)
 
-## [BeatThatQuote.com](https://www.beatthatquote.com/)
+### [BeatThatQuote.com](https://www.beatthatquote.com/)
 
 > 2005 to 2006, as developer
 
@@ -117,7 +131,7 @@ I'm a web developer with specialisation in scalability and [prototyping](https:/
 - aggregating and selling finance leads using custom backend system
 - implemented direct-2-broker system using Ruby on Rails, cutting out underwriters
 
-## Etc
+### Etc
 
 > Developer in London and Johannesburg, 2002 to 2005
 
@@ -129,9 +143,28 @@ I'm a web developer with specialisation in scalability and [prototyping](https:/
 - lease management software for a large fleet
 - full-stack dev for an Internet advertising company
 
+## Projects
 
-## Contact
+### pdfcrun.ch
 
-[juan@uys.io](mailto:juan@uys.io)
-[+44 7702 783 956](tel:+447702783956)
-[Github](https://github.com/opyate/)
+[pdfcrun.ch](https://pdfcrun.ch/) was borne of the recurring patterns I noticed of data being locked up inside PDFs in the wild. It's currently in private beta testing.
+
+### +1 News
+
+> code [here](https://github.com/opyate/plusonenews), [here](https://github.com/opyate/beingjohnmarkovic), [here](https://github.com/opyate/linkbaiter)
+
+- natural language parsing, and news generation by way of Markov chains
+- aggregation and downstream publishing
+
+### Taxi meter built to TFL spec
+
+> [code here](https://github.com/opyate/taximeter)
+
+- accurate rate calculation over discontinuous time
+- successfully used in traffic simulations
+
+### MiniLD \#69
+
+> [code here](https://github.com/opyate/minild69), [game here](http://cdn.opyate.com/projects/ld69/)
+
+I made a small game for [mini-LD](http://ludumdare.com/), and I also [wrote about it](https://opyate.com/2016/07/26/mini-ludum-dare-69/).
