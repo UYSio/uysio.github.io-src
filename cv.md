@@ -18,7 +18,7 @@ I'm a web developer with specialisation in scalability and [prototyping](https:/
 - Functional Programming Principles in Scala (Coursera, 2012)
 - Introduction to Artificial Intelligence (Udacity, 2011)
 - Certificate Sun Certified Java Programmer (Sun Microsystems, 2007)
-- Diploma in Neural Networks (International School for Scientific Computing, 2001)
+- Diploma in Artificial Intelligence & Neural Networks (International School for Scientific Computing, 2001)
 - Qualified advanced scuba diver (NAUI, 1995)
 
 # Roles
