@@ -99,7 +99,7 @@ A few things about me:
 - [reference available](https://cdn.opyate.com/references/Dohub.pdf)
 - fully remote
 
-### pollarize.me
+### [pollarize.me](https://opyate.com/2013/07/19/failed-startup-2/)
 
 > March 2012 to March 2013, evenings and weekends
 
@@ -135,13 +135,12 @@ A few things about me:
 
 > Developer in London and Johannesburg, 2002 to 2005
 
-- marketing database systems for the private healthcare group Cambian (.NET)
-- re-jigging the website for the UCEA (.NET)
-- cloud management platform VITAL (.NET)
+My CV for this period is [available separately](https://cdn.opyate.com/cv/JuanUysCV-2002-2005.doc).
+
 - IT consultation for TAIB securities (private bank)
-- CMS and document management for Investec
-- lease management software for a large fleet
-- full-stack dev for an Internet advertising company
+- developer for ManBytesDog supporting and building systems for healthcare and services firms
+- consultant at Business Edge Systems (now [IMX Software](http://imxsoftware.com/)) building CMS and document management for [Investec](https://www.investec.co.za) and lease management software
+- full-stack dev for an Internet advertising company called iCatcher
 
 ## Projects
 
