@@ -39,6 +39,7 @@ A few things about me:
 - datavis for various Global Retail Banks
 - turning Microsoft Project data into information
 - technologies include D3, Angular1/2, and the MEAN stack
+- Express framework for data upload, authentication and authorisation
 - CI/CD using CircleCI, Docker Hub/Cloud, and AWS
 
 ### Re-skill and game development
@@ -59,6 +60,8 @@ A few things about me:
 - interviews, and devised a remote interview system
 - web proxy using Mashape's [Kong](https://getkong.org), with a subsequent [FOSS contribution](https://github.com/Mashape/kong/pull/1094)
 - instilled the ["measure measure measure" approach](https://www.gov.uk/performance) adopted at GOV.UK
+- HapiJS framework used as initial proxy to Hybris, with stubs generated from Swagger descriptions
+- Style.com API developer portal made with HapiJS and React as part of [Aqua](https://github.com/opyate/aqua)
 
 ### [Government Digital Service (GDS)](https://gds.blog.gov.uk/)
 
@@ -69,6 +72,7 @@ A few things about me:
 - Home Office policy management using Scala
 - fostering code re-use across ministries, agencies, and departments
 - Cross government services [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works) or a "Facebook for Civil Servants" using [Express](http://expressjs.com/) and Python
+- lots of prototypes made with Express via the [GOV.UK prototype kit](https://github.com/alphagov/govuk_prototype_kit)
 
 ### [Credit Monster](https://creditmonster.com/) and [New Concepts Development](http://newconceptscompany.com/)
 
