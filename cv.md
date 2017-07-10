@@ -32,9 +32,21 @@ A few things about me:
 
 ## Roles
 
+### [Tesco PLC](https://www.tesco.com/)
+
+> Feb 2017 to current, as [consultant](https://uys.io)
+
+Part of team to build the new price service. Technologies used:
+
+- Java 8, Rx, Vert.x
+- Couchbase with S3-backed long-term storage
+- Kafka messaging, with initial prototype using MQTT
+- Splunk, AppDynamics, Runscope
+- CI/CD with Jenkins
+
 ### [The Capital Markets Company (CAPCO)](http://capco.com/)
 
-> May 2016 to current, as [consultant](https://uys.io)
+> May 2016 to Feb 2017, as [consultant](https://uys.io)
 
 - datavis for various Global Retail Banks
 - turning Microsoft Project data into information
