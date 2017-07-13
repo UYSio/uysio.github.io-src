@@ -140,7 +140,7 @@ Part of team to build the new price service. Technologies used:
 
 ### [BeatThatQuote.com](https://www.beatthatquote.com/)
 
-> 2005 to 2006, as developer
+> 2005 to 2006, as developer and employee #5
 
 - acquired by Google
 - UK's fastest growing startup in 2005 and HSBC award for best start-up in London
