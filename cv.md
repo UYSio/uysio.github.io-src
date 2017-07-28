@@ -43,6 +43,7 @@ Part of team to build the new price service. Technologies used:
 - Kafka messaging, with initial prototype using MQTT
 - Splunk, AppDynamics, Runscope
 - CI/CD with Jenkins
+- infrastructure on AWS using CloudFormation
 
 ### [The Capital Markets Company (CAPCO)](http://capco.com/)
 
