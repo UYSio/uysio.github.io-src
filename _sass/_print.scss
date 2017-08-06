@@ -17,4 +17,12 @@
     #juan-m-uys::before {
       content: "Curriculum Vitae of ";
     }
+    article {
+        p:first-of-type {
+            display: none;
+        }
+        ul:first-of-type {
+            display: none;
+        }
+    }
 }

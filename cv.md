@@ -5,7 +5,7 @@ title: CV
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [Curriculum Vitae of Juan M. Uys](#curriculum-vitae-of-juan-m-uys)
+- [Juan M. Uys](#juan-m-uys)
     - [Contact](#contact)
     - [Education](#education)
     - [Roles](#roles)
@@ -30,7 +30,7 @@ title: CV
 
 <!-- markdown-toc end -->
 
-# Curriculum Vitae of Juan M. Uys
+# Juan M. Uys
 
 A few things about me:
 
@@ -39,6 +39,11 @@ A few things about me:
 - takes machine learning for granted
 - based in [London](https://www.google.co.uk/maps/place/London+N21)
 - fully equipped for [remote working](https://opyate.com/2016/10/17/my-new-home-office/)
+
+<!--
+- I won't do work for insitutions conducting nefarious activities like [financialisation](https://en.wikipedia.org/wiki/Financialization) and other zero-sum games
+PS if you're viewing the source and read this: yes, I still say "no finance roles, please" on the phone.
+-->
 
 ## Contact
 
