@@ -2,6 +2,33 @@
 layout: page
 title: CV
 ---
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [Curriculum Vitae of Juan M. Uys](#curriculum-vitae-of-juan-m-uys)
+    - [Contact](#contact)
+    - [Education](#education)
+    - [Roles](#roles)
+        - [Tesco PLC](#tesco-plc)
+        - [The Capital Markets Company (CAPCO)](#the-capital-markets-company-capco)
+        - [Re-skill and game development](#re-skill-and-game-development)
+        - [Style.com and Condé Nast Commerce](#stylecom-and-condé-nast-commerce)
+        - [Government Digital Service (GDS)](#government-digital-service-gds)
+        - [Credit Monster](#credit-monster)
+        - [Qudini](#qudini)
+        - [Dohub](#dohub)
+        - [pollarize.me](#pollarizeme)
+        - [Net-A-Porter.com Group](#net-a-portercom-group)
+        - [BeatThatQuote.com](#beatthatquotecom)
+        - [Etc](#etc)
+    - [Projects](#projects)
+        - [pdfcrun.ch](#pdfcrunch)
+        - [Flask-Pushrod](#flask-pushrod)
+        - [Flask-Sandboy](#flask-sandboy)
+        - [+1 News](#1-news)
+        - [Taxi meter built to TFL spec](#taxi-meter-built-to-tfl-spec)
+
+<!-- markdown-toc end -->
 
 # Curriculum Vitae of Juan M. Uys
 
@@ -32,11 +59,11 @@ A few things about me:
 
 ## Roles
 
-### [Tesco PLC](https://www.tesco.com/)
+### Tesco PLC
 
 > Feb 2017 to current, as [consultant](https://uys.io)
 
-Part of team to build the new price service. Technologies used:
+Part of team at [Tesco](https://www.tesco.com/) to build the new price service. Technologies used:
 
 - Java 8, Rx, Vert.x
 - Couchbase with S3-backed long-term storage
@@ -45,11 +72,13 @@ Part of team to build the new price service. Technologies used:
 - CI/CD with Jenkins
 - infrastructure on AWS using CloudFormation
 
-### [The Capital Markets Company (CAPCO)](http://capco.com/)
+### The Capital Markets Company (CAPCO)
 
 > May 2016 to Feb 2017, as [consultant](https://uys.io)
 
-- datavis for various Global Retail Banks
+Part of team at [CAPCO](http://capco.com/) to build an information platform for global retail banks.
+
+- data visualisation using D3.js
 - turning Microsoft Project data into information
 - technologies include D3, Angular1/2, and the MEAN stack
 - Express framework for data upload, authentication and authorisation
@@ -62,9 +91,11 @@ Part of team to build the new price service. Technologies used:
 - familiarise myself with [D3.js](https://d3js.org/) version 4
 - start working on my [super secret game](https://opyate.com/tag/gamedev/), using Unity3D and C#
 
-### [Style.com](https://www.style.com/) and Condé Nast Commerce
+### Style.com and Condé Nast Commerce
 
 > July 2015 to March 2016, as [consultant](https://uys.io)
+
+Part of Platform Team at Condé Nast Commerce to help launch [style.com](https://www.style.com/).
 
 - team lead for Conde Nast’s Platform Team of six
 - development with Clojure, Javascript, Ruby, and PHP
@@ -76,9 +107,11 @@ Part of team to build the new price service. Technologies used:
 - HapiJS framework used as initial proxy to Hybris, with stubs generated from Swagger descriptions
 - Style.com API developer portal made with HapiJS and React as part of [Aqua](https://github.com/opyate/aqua)
 
-### [Government Digital Service (GDS)](https://gds.blog.gov.uk/)
+### Government Digital Service (GDS)
 
 > March 2014 to June 2015, as [consultant](https://uys.io)
+
+Part of various teams at [GDS](https://gds.blog.gov.uk/) transforming government services.
 
 - Land Registry [beta](https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works) using Python, PostgreSQL, and Docker
 - early adopter of [fig](http://www.fig.sh/) (later known as [docker compose](https://docs.docker.com/compose/))
@@ -87,9 +120,11 @@ Part of team to build the new price service. Technologies used:
 - Cross government services [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works) or a "Facebook for Civil Servants" using [Express](http://expressjs.com/) and Python
 - lots of prototypes made with Express via the [GOV.UK prototype kit](https://github.com/alphagov/govuk_prototype_kit)
 
-### [Credit Monster](https://creditmonster.com/) and [New Concepts Development](http://newconceptscompany.com/)
+### Credit Monster
 
 > August 2013 to March 2014, as freelancer
+
+Part of distributed remote team at [Credit Monster](https://creditmonster.com/) (part of [New Concepts Development](http://newconceptscompany.com/)) to help launch a identity theft protection system.
 
 - PDF parsing
 - credit scoring and lead generation
@@ -99,26 +134,32 @@ Part of team to build the new price service. Technologies used:
 - [reference available](https://cdn.opyate.com/references/CreditMonster.pdf)
 - fully remote, with co-developers in Belgium, US East Coast and California
 
-### [Qudini](https://www.qudini.com/)
+### Qudini
 
 > August 2013 to March 2014, as freelancer
+
+Sitting alongside the CTO of [Qudini](https://www.qudini.com/) to help optimise the core web app and automate deployment using configuration management.
 
 - solving the age-old British problem of the queue
 - technologies include Java, Playframework, MySQL, and AWS
 - [reference available](https://cdn.opyate.com/references/Qudini.pdf)
 
-### [Dohub](http://dohubenterprise.com/)
+### Dohub
 
 > August 2013 to March 2014, as freelancer
+
+Sitting alongside the CEO of [Dohub](http://dohubenterprise.com/) to deliver the technical component of the business.
 
 - a service marketplace modelled on an [order book](https://en.wikipedia.org/wiki/Order_book_(trading))
 - technologies include Scala, Akka, and AngularJS
 - [reference available](https://cdn.opyate.com/references/Dohub.pdf)
 - fully remote
 
-### [pollarize.me](https://opyate.com/2013/07/19/failed-startup-2/)
+### pollarize.me
 
 > March 2012 to March 2013, evenings and weekends
+
+Part of a founding team of 4 at [pollarize.me](https://opyate.com/2013/07/19/failed-startup-2/).
 
 - startup that spun out of us [winning Startup Weekend 2012](https://opyate.com/2012/03/25/we-won-startup-weekend/)
 - A/B polling in the same vein as polarb, state.it, thumb.it, etc
@@ -127,9 +168,11 @@ Part of team to build the new price service. Technologies used:
 - integrations include [blitline](https://www.blitline.com/v3/home), [Twilio](https://www.twilio.com/), [PubNub](https://www.pubnub.com/), [Urban Airship](https://www.urbanairship.com/), and [Mailgun](https://www.mailgun.com/)
 - blog about [our architecture](https://opyate.com/2012/11/20/pollarize-architecture-at-a-glance/)
 
-### [Net-A-Porter.com Group](https://www.net-a-porter.com/) (pre-YOOX)
+### Net-A-Porter.com Group
 
 > January 2007 to August 2013, as developer
+
+Initially, the second Java developer, and later on part of a 50+ development team at [Net-A-Porter](https://www.net-a-porter.com/) (pre-YOOX) to help deliver and grow the 3 websites.
 
 - PCI-compliant payment system and credit card database
 - introduced Scala to the company in 2009
@@ -139,9 +182,11 @@ Part of team to build the new price service. Technologies used:
 - search and sitemap automation using Spring Batch, Apache Nutch and Solr, later ElasticSearch
 - gluing together parts of our CI system using Lift (Scala)
 
-### [BeatThatQuote.com](https://www.beatthatquote.com/)
+### BeatThatQuote.com
 
 > 2005 to 2006, as developer and employee #5
+
+Part of 2 person development team initially, growing to tens of employees, helping deliver a lead generation platform for [BeatThatQuote.com](https://www.beatthatquote.com/).
 
 - acquired by Google
 - UK's fastest growing startup in 2005 and HSBC award for best start-up in London
@@ -165,6 +210,14 @@ My CV for this period is [available separately](https://cdn.opyate.com/cv/JuanUy
 
 [pdfcrun.ch](https://pdfcrun.ch/) was borne of the recurring patterns I noticed of data being locked up inside PDFs in the wild. It's currently in private beta testing.
 
+### Flask-Pushrod
+
+[Flask-Pushrod](https://github.com/UYSio/Flask-Pushrod) is a simple content-negotiation helper for [Flask](http://flask.pocoo.org/).
+
+### Flask-Sandboy
+
+[Flask-Sandboy](https://github.com/UYSio/flask_sandboy) automatically generates REST APIs from existing [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/) models. _(Awaiting core contributor status, or transfer of ownership)_
+
 ### +1 News
 
 > code [here](https://github.com/opyate/plusonenews), [here](https://github.com/opyate/beingjohnmarkovic), [here](https://github.com/opyate/linkbaiter)
@@ -178,9 +231,3 @@ My CV for this period is [available separately](https://cdn.opyate.com/cv/JuanUy
 
 - accurate rate calculation over discontinuous time
 - successfully used in traffic simulations
-
-### MiniLD \#69
-
-> [code here](https://github.com/opyate/minild69), [game here](http://cdn.opyate.com/projects/ld69/)
-
-I made a small game for [mini-LD](http://ludumdare.com/), and I also [wrote about it](https://opyate.com/2016/07/26/mini-ludum-dare-69/).
