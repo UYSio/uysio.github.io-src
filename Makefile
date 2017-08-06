@@ -1,4 +1,4 @@
-.PHONY: new run
+.PHONY: new run publish
 
 all: run
 
@@ -7,3 +7,6 @@ new:
 
 run:
 	@./run.sh
+
+publish:
+	@./publish.sh
