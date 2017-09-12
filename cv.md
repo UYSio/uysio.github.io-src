@@ -223,6 +223,8 @@ My CV for this period is [available separately](https://cdn.opyate.com/cv/JuanUy
 
 [Flask-Sandboy](https://github.com/UYSio/flask_sandboy) automatically generates REST APIs from existing [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/) models. _(Awaiting core contributor status, or transfer of ownership)_
 
+Create a demo app with [the Flask-Sandboy cookiecutter](https://github.com/opyate/cookiecutter-flask-sandboy) and quickly spin up an example on Heroku.
+
 ### +1 News
 
 > code [here](https://github.com/opyate/plusonenews), [here](https://github.com/opyate/beingjohnmarkovic), [here](https://github.com/opyate/linkbaiter)
