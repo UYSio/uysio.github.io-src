@@ -9,6 +9,7 @@ title: CV
     - [Contact](#contact)
     - [Education](#education)
     - [Roles](#roles)
+        - [Telefónica](#telefónica)
         - [Tesco PLC](#tesco-plc)
         - [The Capital Markets Company (CAPCO)](#the-capital-markets-company-capco)
         - [Re-skill and game development](#re-skill-and-game-development)
@@ -32,18 +33,8 @@ title: CV
 
 # Juan M. Uys
 
-A few things about me:
+I'm a full-stack web developer from London with over 15 years experience connecting websites to databases, and everything in-between.
 
-- full-stack web developer for 15 years
-- good at [prototyping](https://opyate.com/tag/hackathon/) and scaling systems
-- takes machine learning for granted
-- based in [London](https://www.google.co.uk/maps/place/London+N21)
-- fully equipped for [remote working](https://opyate.com/2016/10/17/my-new-home-office/)
-
-<!--
-- I won't do work for insitutions conducting nefarious activities like [financialisation](https://en.wikipedia.org/wiki/Financialization) and other zero-sum games
-PS if you're viewing the source and read this: yes, I still say "no finance roles, please" on the phone.
--->
 
 ## Contact
 
@@ -52,8 +43,9 @@ PS if you're viewing the source and read this: yes, I still say "no finance role
 
 ## Education
 
+- [deeplearning.ai](https://deeplearning.ai) *([specialisation](https://www.coursera.org/account/accomplishments/specialization/WUMC3L2MXQ7F), [1](https://www.coursera.org/account/accomplishments/records/W8BDSFHKNV8J), [2](https://www.coursera.org/account/accomplishments/records/4VUAJJEKCLC4), [3](https://www.coursera.org/account/accomplishments/records/N6GV2NJ3VCK7), [4](https://www.coursera.org/account/accomplishments/records/WB9MMH76LT2Z), [5](https://www.coursera.org/account/accomplishments/records/7L84A2X6B364))*
 - How to be a dad (Home, 2013 - current)
-- Certificate in Computational Investing (Georgia Institute of Technology, 2013)
+- Certificate in Computational Investing (Georgia Institute of Technology, 2013) *([1](https://www.coursera.org/account/accomplishments/records/3QXU2KYMLG))*
 - Data Analysis (Coursera, 2013)
 - Web Intelligence and Big Data (Coursera, 2013)
 - Functional Programming Principles in Scala (Coursera, 2012)
@@ -62,11 +54,23 @@ PS if you're viewing the source and read this: yes, I still say "no finance role
 - Diploma in Artificial Intelligence & Neural Networks (International School for Scientific Computing, 2001)
 - Qualified advanced scuba diver (NAUI, 1995)
 
-## Roles
+## Clients
+
+### Telefónica
+
+> September 2017 to December 2017 via EE
+
+Delivering features on O2 Priority content management project; working with Telefónica staff to align our architecture with their roadmap.
+
+- Java 8, Dropwizard, MongoDB
+- Effected vendor access and authorisation added to microservices
+- Audit logging with custom annotations
+- developer automation to ease working with ~20 services and apps
+- maintaining the suite of acceptance tests
 
 ### Tesco PLC
 
-> Feb 2017 to current, as [consultant](https://uys.io)
+> Feb 2017 to August 2017, as [consultant](https://uys.io)
 
 Part of team at [Tesco](https://www.tesco.com/) to build the new price service. Technologies used:
 
@@ -76,6 +80,7 @@ Part of team at [Tesco](https://www.tesco.com/) to build the new price service. 
 - Splunk, AppDynamics, Runscope
 - CI/CD with Jenkins
 - infrastructure on AWS using CloudFormation
+- integration with Apigee (now Google Edge) with which to publicise the API
 
 ### The Capital Markets Company (CAPCO)
 
