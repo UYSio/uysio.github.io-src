@@ -43,7 +43,7 @@ I'm a full-stack web developer from London with over 15 years experience connect
 
 ## Education
 
-- [deeplearning.ai](https://deeplearning.ai) *([specialisation](https://www.coursera.org/account/accomplishments/specialization/WUMC3L2MXQ7F), [1](https://www.coursera.org/account/accomplishments/records/W8BDSFHKNV8J), [2](https://www.coursera.org/account/accomplishments/records/4VUAJJEKCLC4), [3](https://www.coursera.org/account/accomplishments/records/N6GV2NJ3VCK7), [4](https://www.coursera.org/account/accomplishments/records/WB9MMH76LT2Z), [5](https://www.coursera.org/account/accomplishments/records/7L84A2X6B364))*
+- [deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/certificate/WUMC3L2MXQ7F)
 - How to be a dad (Home, 2013 - current)
 - Certificate in Computational Investing (Georgia Institute of Technology, 2013) *([1](https://www.coursera.org/account/accomplishments/records/3QXU2KYMLG))*
 - Data Analysis (Coursera, 2013)
