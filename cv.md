@@ -56,6 +56,14 @@ I'm a full-stack web developer from London with over 15 years experience connect
 
 ## Clients
 
+### barclaycard
+
+> January 2018 to now, via EE
+
+Delivering Pay By Bank app.
+
+- Java 6, SOAP XML, Apache CXF
+
 ### Telefónica
 
 > September 2017 to December 2017 via EE
