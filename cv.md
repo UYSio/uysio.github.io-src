@@ -2,13 +2,15 @@
 layout: page
 title: CV
 ---
+
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
 - [Juan M. Uys](#juan-m-uys)
     - [Contact](#contact)
     - [Education](#education)
-    - [Roles](#roles)
+    - [Clients](#clients)
+        - [barclaycard](#barclaycard)
         - [Telefónica](#telefónica)
         - [Tesco PLC](#tesco-plc)
         - [The Capital Markets Company (CAPCO)](#the-capital-markets-company-capco)
@@ -31,10 +33,10 @@ title: CV
 
 <!-- markdown-toc end -->
 
+
 # Juan M. Uys
 
 I'm a full-stack web developer from London with over 15 years experience connecting websites to databases, and everything in-between.
-
 
 ## Contact
 
@@ -43,7 +45,7 @@ I'm a full-stack web developer from London with over 15 years experience connect
 
 ## Education
 
-- [deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/certificate/WUMC3L2MXQ7F)
+- [deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/certificate/WUMC3L2MXQ7F) specialisation
 - How to be a dad (Home, 2013 - current)
 - Certificate in Computational Investing (Georgia Institute of Technology, 2013) *([1](https://www.coursera.org/account/accomplishments/records/3QXU2KYMLG))*
 - Data Analysis (Coursera, 2013)
@@ -60,9 +62,11 @@ I'm a full-stack web developer from London with over 15 years experience connect
 
 > January 2018 to now, via EE
 
-Delivering Pay By Bank app.
+Delivering Pay By Bank app. Maintaining a custom in-house test suite called Regressioniser.
 
-- Java 6, SOAP XML, Apache CXF
+- Java, SOAP XML, Apache CXF for backend systems
+- secure integrations with end-to-end encryption
+- Javascript for Pay By Bank App (pbba) merchant integration
 
 ### Telefónica
 
@@ -192,7 +196,8 @@ Part of a founding team of 4 at [pollarize.me](https://opyate.com/2013/07/19/fai
 
 Initially, the second Java developer, and later on part of a 50+ development team at [Net-A-Porter](https://www.net-a-porter.com/) (pre-YOOX) to help deliver and grow the 3 websites.
 
-- PCI-compliant payment system and credit card database
+- PCI-compliant payment system and credit card database with end-to-end encryption
+- liaising with the outsourced pentesting team to ensure the payment system is hardened
 - introduced Scala to the company in 2009
 - [hackday champion 2011](https://opyate.com/2011/04/22/we-won-net-a-porter-hack-day/), showcasing a mobile app for the budding fashion scout
 - CMS and workflow using Alfresco and Activiti
