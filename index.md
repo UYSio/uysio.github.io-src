@@ -5,6 +5,8 @@ title: Home
 
 Hi, [I'm Juan](https://opyate.com), and {{ site.title }} is my web development consultancy.
 
-Read more about the [work I've done](cv), and get in touch via [email](mailto:juan+www@uys.io) or [Skype](skype:opyate?call) if you'd like to collaborate.
+I have a [portfolio](portfolio), and a [summary of client work](cv).
 
-I write about things and [code](https://github.com/opyate/) on [my website](https://opyate.com/).
+Since I'm a digital hoarder, I also log my [stream of consciousness](https://opyate.com/).
+
+[Contact me](mailto:juan+www@uys.io) if you'd like to collaborate.
