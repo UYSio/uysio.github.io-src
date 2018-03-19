@@ -21,6 +21,11 @@
         p:first-of-type {
             display: none;
         }
+        blockquote {
+            p {
+                display: block !important;
+            }
+        }
         ul:first-of-type {
             display: none;
         }

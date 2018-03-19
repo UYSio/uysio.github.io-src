@@ -8,8 +8,7 @@ title: CV
 
 - [Juan M. Uys](#juan-m-uys)
     - [Contact](#contact)
-    - [Education](#education)
-    - [Clients](#clients)
+    - [Clients & roles](#clients--roles)
         - [barclaycard](#barclaycard)
         - [Telefónica](#telefónica)
         - [Tesco PLC](#tesco-plc)
@@ -24,39 +23,22 @@ title: CV
         - [Net-A-Porter.com Group](#net-a-portercom-group)
         - [BeatThatQuote.com](#beatthatquotecom)
         - [Etc](#etc)
-    - [Projects](#projects)
-        - [pdfcrun.ch](#pdfcrunch)
-        - [Flask-Pushrod](#flask-pushrod)
-        - [Flask-Sandboy](#flask-sandboy)
-        - [+1 News](#1-news)
-        - [Taxi meter built to TFL spec](#taxi-meter-built-to-tfl-spec)
+    - [Education](#education)
 
 <!-- markdown-toc end -->
 
 
 # Juan M. Uys
 
-I'm a full-stack web developer from London with over 15 years experience connecting websites to databases, and everything in-between.
+I'm a full-stack web developer from London with over **15 years experience** in industries ranging from **government, e-commerce, and banking**. I'm a pragmatist, automate once I need to do something the second time around, and enjoy the odd hackathon to flex my MVP muscle.
 
 ## Contact
 
 [juan+cv@uys.io](mailto:juan+cv@uys.io)
 [+44 7702 783 956](tel:+447702783956)
 
-## Education
 
-- [deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/certificate/WUMC3L2MXQ7F) specialisation
-- How to be a dad (Home, 2013 - current)
-- Certificate in Computational Investing (Georgia Institute of Technology, 2013) *([1](https://www.coursera.org/account/accomplishments/records/3QXU2KYMLG))*
-- Data Analysis (Coursera, 2013)
-- Web Intelligence and Big Data (Coursera, 2013)
-- Functional Programming Principles in Scala (Coursera, 2012)
-- Introduction to Artificial Intelligence (Udacity, 2011)
-- Certificate Sun Certified Java Programmer (Sun Microsystems, 2007)
-- Diploma in Artificial Intelligence & Neural Networks (International School for Scientific Computing, 2001)
-- Qualified advanced scuba diver (NAUI, 1995)
-
-## Clients
+## Clients & roles
 
 ### barclaycard
 
@@ -227,32 +209,15 @@ My CV for this period is [available separately](https://cdn.opyate.com/cv/JuanUy
 - consultant at Business Edge Systems (now [IMX Software](http://imxsoftware.com/)) building CMS and document management for [Investec](https://www.investec.co.za) and lease management software
 - full-stack dev for an Internet advertising company called iCatcher
 
-## Projects
+## Education
 
-### pdfcrun.ch
-
-[pdfcrun.ch](https://pdfcrun.ch/) was borne of the recurring patterns I noticed of data being locked up inside PDFs in the wild. It's currently in private beta testing.
-
-### Flask-Pushrod
-
-[Flask-Pushrod](https://github.com/UYSio/Flask-Pushrod) is a simple content-negotiation helper for [Flask](http://flask.pocoo.org/).
-
-### Flask-Sandboy
-
-[Flask-Sandboy](https://github.com/UYSio/flask_sandboy) automatically generates REST APIs from existing [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/) models. _(Awaiting core contributor status, or transfer of ownership)_
-
-Create a demo app with [the Flask-Sandboy cookiecutter](https://github.com/opyate/cookiecutter-flask-sandboy) and quickly spin up an example on Heroku.
-
-### +1 News
-
-> code [here](https://github.com/opyate/plusonenews), [here](https://github.com/opyate/beingjohnmarkovic), [here](https://github.com/opyate/linkbaiter)
-
-- natural language parsing, and news generation by way of Markov chains
-- aggregation and downstream publishing
-
-### Taxi meter built to TFL spec
-
-> [code here](https://github.com/opyate/taximeter)
-
-- accurate rate calculation over discontinuous time
-- successfully used in traffic simulations
+- [deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/certificate/WUMC3L2MXQ7F) specialisation
+- How to be a dad (Home, 2013 - current)
+- Certificate in Computational Investing (Georgia Institute of Technology, 2013) *([1](https://www.coursera.org/account/accomplishments/records/3QXU2KYMLG))*
+- Data Analysis (Coursera, 2013)
+- Web Intelligence and Big Data (Coursera, 2013)
+- Functional Programming Principles in Scala (Coursera, 2012)
+- Introduction to Artificial Intelligence (Udacity, 2011)
+- Certificate Sun Certified Java Programmer (Sun Microsystems, 2007)
+- Diploma in Artificial Intelligence & Neural Networks (International School for Scientific Computing, 2001)
+- Qualified advanced scuba diver (NAUI, 1995)
