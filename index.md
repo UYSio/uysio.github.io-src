@@ -3,10 +3,10 @@ layout: page
 title: Home
 ---
 
-Hi, [I'm Juan](https://opyate.com), and {{ site.title }} is my web development consultancy.
+Hi, [I'm Juan](https://juanuys.com), and {{ site.title }} is my web development consultancy.
 
-I have a [portfolio](portfolio), and a [data-driven CV](cv).
+I've over [16 years experience](cv) with web development using JVM languages, Python and Node.
 
-Since I'm a digital hoarder, I also log my [stream of consciousness](https://opyate.com/).
+[Other interests](portfolio) include illustration and making small games.
 
 [Contact me](mailto:juan+www@uys.io) if you'd like to collaborate.
