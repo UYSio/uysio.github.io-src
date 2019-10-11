@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Unleash Your Server
 ---
 
 Hi, [I'm Juan](https://juanuys.com), and {{ site.title }} is my web development consultancy.
