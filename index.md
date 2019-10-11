@@ -9,4 +9,6 @@ I've over [16 years experience](cv) with web development using JVM languages, Py
 
 [Other interests](portfolio) include illustration and making small games.
 
+Sometimes I [write about tech](https://juanuys.com/tags#tech).
+
 [Contact me](mailto:juan+www@uys.io) if you'd like to collaborate.
